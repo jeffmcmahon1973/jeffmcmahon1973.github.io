@@ -1,0 +1,31 @@
+body{
+	text-align: center;
+	background-image: "lettuce.jpg"
+}
+
+
+.content1{
+	font-family:'Merienda One', cursive;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+#content2{
+	font-family: 'Architects Daughter', cursive;
+	border: thick double #1a75ff;
+}
+
+.content3{
+	font-family:'Merienda One', cursive;
+	border-bottom: solid black;
+}
+
+.content4{
+	font-family:'Merienda One', cursive;
+}
+
+
+#hopper2{
+	font-family:'Merienda One', cursive;
+	background: #b3d1ff;
+}
